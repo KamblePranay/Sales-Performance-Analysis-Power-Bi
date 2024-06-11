@@ -1,14 +1,11 @@
 # Sales-Performance-Analysis-Power-Bi
 I performed a detailed time analysis using Power BI, which encompassed a study of sales trends and discount structures. This analysis yielded significant insights into our customers' purchasing habits and revealed an increase in sales across various sub-categories.
 
-The dashboard header indicates that it's for sales performance analysis, with filter options for the year (2009 to 2012) and product category (Furniture, Office Supplies, Technology).
+The dashboard header indicates that it's for sales performance analysis, with filter options for the year (2009–2012) and product category (furniture, office supplies, technology).
 
 Three key metrics are prominently displayed:
 
-Average of sales: 3.53M (presumably in dollars)
-Average of discount: 4.99%
-Average of order quantity: 25.52
-A line chart titled "Sum of sales and order quantity by Year Month and Day" shows fluctuations over time, with two lines possibly representing the two different metrics (sales and order quantity).
+Average of sales: 3.53 million (presumably in dollars) Average discount: 4.99% Average order quantity: 25.52 A line chart titled "Sum of sales and order quantity by year, month, and day" shows fluctuations over time, with two lines possibly representing the two different metrics (sales and order quantity).
 
 A table below the line chart lists product sub-categories along with numerical values for 'Order Cancelled', 'Order Finished', 'Order Returned', and 'Total'. The exact units are not specified, but they could represent sales figures or quantities.
 
